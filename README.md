@@ -42,11 +42,4 @@ This repository contains the complete set of lab exercises submitted for the Mac
 - **Lab 12:** Designing your own CNN architecture.
 - **Lab 13:** Image data augmentation using Keras.
 
----
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
 
